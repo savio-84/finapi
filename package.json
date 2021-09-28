@@ -1,0 +1,18 @@
+{
+  "name": "finapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:savio-84/finapi.git",
+  "author": "savio-84 <saviocarvalho01@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
